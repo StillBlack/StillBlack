@@ -1,9 +1,9 @@
-👨‍💻## About Me
+## About Me
 
 Hi! I’m a Flutter Developer with a strong passion for building clean, responsive, and user-friendly mobile applications. I enjoy turning ideas into functional apps using Dart and Flutter’s powerful widget system.
 Along with app development, I have solid knowledge of AI, Machine Learning, and Deep Learning, and I love exploring how intelligent systems can improve real-world applications. I'm always learning new technologies, experimenting with models, and improving my development skills.
 
-🚀 ##What I Do
+## What I Do
 Flutter app development
 UI/UX implementation
 Dart programming
